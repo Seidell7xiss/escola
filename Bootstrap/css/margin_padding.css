@@ -1,0 +1,16 @@
+.box {
+    border: 1px solid #333;
+    background-color: #f3f3f3;
+    text-align: center;
+    height: 150px;
+    line-height: 150px;
+    font-size: 16px;
+}
+
+.exemplo-margin {
+    margin: 20px;
+}
+
+.exemplo-padding {
+    padding: 20px;
+}
